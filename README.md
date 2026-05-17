@@ -128,8 +128,8 @@ $ ./sem.o
 
 
 $ ipcs
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/fe9d7487-19d5-41f6-a0e5-01c3e4b4a3ba" />
 
-![Uploading image.png…]()
 
 
 
